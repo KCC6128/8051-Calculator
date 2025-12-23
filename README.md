@@ -13,11 +13,11 @@
 > 圖中的 `reset` 鍵對應程式的 `C`（清除 / 進位切換）。
 
 ### 完整 Demo 影片（YouTube）
+[Watch on YouTube Shorts](https://youtube.com/shorts/_WM83jGysf0)
+
 <a href="https://youtube.com/shorts/_WM83jGysf0">
   <img src="assets/youtube_thumb.png" width="300">
 </a>
-
-[Watch on YouTube Shorts](https://youtube.com/shorts/_WM83jGysf0)
 
 
 ---
