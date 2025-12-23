@@ -21,7 +21,7 @@
 ![Base Demo](assets/demo_base.gif)
 
 ### 完整 Demo 影片（YouTube）
-[![Watch on YouTube](https://img.youtube.com/vi/<YOUR_VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/watch?v=[<YOUR_VIDEO_ID>](https://youtube.com/shorts/_WM83jGysf0?feature=share))
+[![Watch on YouTube](https://youtube.com/shorts/_WM83jGysf0?feature=share)
 
 ---
 
