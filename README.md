@@ -126,23 +126,24 @@ make clean
 
 ---
 
-## Project Structure
+## 專案架構（Project Structure）
 
 ```
 8051-Calculator/
-├─ README.md
-├─ .gitignore
+├─ README.md                 # 專案說明、功能、操作方式、Demo 連結
+├─ .gitignore                # 忽略 SDCC 編譯產物（.hex/.ihx/.rel...）
 ├─ assets/
-│  ├─ keypad_layout.jpg
-│  └─ youtube_thumb.png
+│  ├─ keypad_layout.jpg      # Keypad 按鍵位置示意圖
+│  └─ youtube_thumb.png      # YouTube Demo 縮圖（可點擊跳轉）
 └─ src/
-   ├─ final_main.c
-   ├─ Keypad4x4.c
-   ├─ Keypad4x4.h
-   ├─ LED_Display.c
-   ├─ LED_Display.h
-   ├─ delay.c
-   ├─ delay.h
-   └─ Makefile
+   ├─ final_main.c           # 主程式：運算/負數/Error/進位切換/History
+   ├─ Keypad4x4.c            # 4x4 Keypad 掃描與按鍵回傳
+   ├─ Keypad4x4.h            # Keypad 介面宣告
+   ├─ LED_Display.c          # 七段顯示器段碼與顯示控制
+   ├─ LED_Display.h          # 顯示器介面宣告
+   ├─ delay.c                # 延遲函式（debounce/顯示刷新用）
+   ├─ delay.h                # delay 介面宣告
+   └─ Makefile               # SDCC 編譯腳本（輸出 final_main.hex）
+
 ```
 
