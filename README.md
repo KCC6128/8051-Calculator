@@ -10,15 +10,11 @@
 ### Keypad 位置示意圖
 <img src="assets/keypad_layout.jpg" width="500">
 
-### Demo GIF：基本四則運算 + 連續運算（左到右）
-> 無乘除優先權、除法為整數除法、除以 0 會顯示 Error
+### Demo：基本四則運算 + 連續運算（左到右）
+[![Basic Demo](assets/demo_basic_thumb.png)](assets/demo_basic.mp4)
 
-<img src="assets/demo_basic.gif" width="650">
-
-### Demo GIF：轉換 2 / 8 / 16 進制
-> 負數以補數（two’s complement）顯示；超出範圍會顯示 Error
-
-<img src="assets/demo_base.gif" width="650">
+### Demo：轉換 2 / 8 / 16 進制
+[![Base Demo](assets/demo_base_thumb.png)](assets/demo_base.mp4)
 
 ### 完整 Demo 影片（YouTube）
 <a href="https://youtube.com/shorts/_WM83jGysf0">
