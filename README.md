@@ -17,6 +17,8 @@
   <img src="assets/youtube_thumb.png" width="300">
 </a>
 
+[Watch on YouTube Shorts](https://youtube.com/shorts/_WM83jGysf0)
+
 
 ---
 
