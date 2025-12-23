@@ -9,6 +9,7 @@
 
 ### Keypad 位置示意圖
 <img src="assets/keypad_layout.jpg" width="500">
+
 > 圖中的 `reset` 鍵對應程式的 `C`（清除 / 進位切換）。
 
 ### 完整 Demo 影片（YouTube）
