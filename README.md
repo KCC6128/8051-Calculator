@@ -109,7 +109,7 @@ make
 ```
 
 輸出檔：
-final_main.hex（燒錄用）
+- `final_main.hex`（燒錄用）
 
 ### 清理（clean）
 ```bash
