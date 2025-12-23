@@ -1,0 +1,18 @@
+# SDCC build artifacts
+*.hex
+*.ihx
+*.lk
+*.lst
+*.map
+*.mem
+*.rel
+*.rst
+*.sym
+*.asm
+*.lib
+*.o
+*.obj
+
+# OS junk
+.DS_Store
+Thumbs.db
