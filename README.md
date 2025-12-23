@@ -118,5 +118,6 @@ make clean
 ```
 
 
-注意：make clean 在 Windows 可用（使用 del）。
-若在 Linux/macOS，請把 src/Makefile 的 del 改成 rm -f。
+> 注意：`make clean` 在 Windows 可用（使用 `del`）。  
+> 若在 Linux/macOS，請把 `src/Makefile` 的 `del` 改成 `rm -f`。
+
