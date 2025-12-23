@@ -22,7 +22,7 @@
 
 ### 完整 Demo 影片（YouTube）
 <a href="https://youtube.com/shorts/_WM83jGysf0">
-  <img src="assets/youtube_thumb.png" width="650">
+  <img src="assets/youtube_thumb.png" width="300">
 </a>
 
 
