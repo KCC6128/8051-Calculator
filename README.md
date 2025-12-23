@@ -8,20 +8,23 @@
 ## 專案展示
 
 ### Keypad 位置示意圖
-![Keypad Layout](assets/keypad_layout.jpg)
+<img src="assets/keypad_layout.jpg" width="650">
 
 ### Demo GIF：基本四則運算 + 連續運算（左到右）
 > 無乘除優先權、除法為整數除法、除以 0 會顯示 Error
 
-![Basic Demo](assets/demo_basic.gif)
+<img src="assets/demo_basic.gif" width="650">
 
 ### Demo GIF：轉換 2 / 8 / 16 進制
 > 負數以補數（two’s complement）顯示；超出範圍會顯示 Error
 
-![Base Demo](assets/demo_base.gif)
+<img src="assets/demo_base.gif" width="650">
 
 ### 完整 Demo 影片（YouTube）
-[![Watch Demo](assets/youtube_thumb.png)](https://youtube.com/shorts/_WM83jGysf0)
+<a href="https://youtube.com/shorts/_WM83jGysf0">
+  <img src="assets/youtube_thumb.png" width="650">
+</a>
+
 
 ---
 
