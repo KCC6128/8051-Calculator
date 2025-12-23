@@ -144,6 +144,5 @@ make clean
    ├─ delay.c                # 延遲函式（debounce/顯示刷新用）
    ├─ delay.h                # delay 介面宣告
    └─ Makefile               # SDCC 編譯腳本（輸出 final_main.hex）
-
 ```
 
