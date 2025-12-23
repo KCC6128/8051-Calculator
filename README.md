@@ -22,7 +22,7 @@
 
 ### 完整 Demo 影片（YouTube）
 把 `<YOUR_VIDEO_ID>` 換成你的 YouTube 影片 ID（連結 v= 後面的那串）。
-[![Watch on YouTube](https://img.youtube.com/vi/<YOUR_VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/watch?v=<YOUR_VIDEO_ID>)
+[![Watch on YouTube](https://youtube.com/shorts/_WM83jGysf0?feature=share)
 
 ---
 
