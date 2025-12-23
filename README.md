@@ -8,7 +8,7 @@
 ## 專案展示
 
 ### Keypad 位置示意圖
-![Keypad Layout](assets/keypad_layout.png)
+![Keypad Layout](assets/keypad_layout.jpg)
 
 ### Demo GIF：基本四則運算 + 連續運算（左到右）
 > 無乘除優先權、除法為整數除法、除以 0 會顯示 Error
