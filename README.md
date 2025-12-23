@@ -136,7 +136,7 @@ make clean
 │  ├─ keypad_layout.jpg      # Keypad 按鍵位置示意圖
 │  └─ youtube_thumb.png      # YouTube Demo 縮圖（可點擊跳轉）
 └─ src/
-   ├─ final_main.c           # 主程式：運算/負數/Error/進位切換/History
+   ├─ final_main.c           # 主程式：運算/負數/Error/進制切換/History
    ├─ Keypad4x4.c            # 4x4 Keypad 掃描與按鍵回傳
    ├─ Keypad4x4.h            # Keypad 介面宣告
    ├─ LED_Display.c          # 七段顯示器段碼與顯示控制
