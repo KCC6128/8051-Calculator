@@ -55,7 +55,7 @@
 
 ---
 
-## 操作方式（How to Use / Demo 腳本）
+## 操作方式（How to Use / Demo）
 
 ### 1) 基本運算
 1. 輸入 `num1`
