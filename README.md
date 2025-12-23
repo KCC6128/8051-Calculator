@@ -121,7 +121,28 @@ cd src
 make clean
 ```
 
-
 > 注意：`make clean` 在 Windows 可用（使用 `del`）。  
 > 若在 Linux/macOS，請把 `src/Makefile` 的 `del` 改成 `rm -f`。
+
+---
+
+## Project Structure
+
+```
+8051-Calculator/
+├─ README.md
+├─ .gitignore
+├─ assets/
+│  ├─ keypad_layout.jpg
+│  └─ youtube_thumb.png
+└─ src/
+   ├─ final_main.c
+   ├─ Keypad4x4.c
+   ├─ Keypad4x4.h
+   ├─ LED_Display.c
+   ├─ LED_Display.h
+   ├─ delay.c
+   ├─ delay.h
+   └─ Makefile
+```
 
