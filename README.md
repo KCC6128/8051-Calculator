@@ -10,17 +10,6 @@
 ### Keypad 位置示意圖
 <img src="assets/keypad_layout.jpg" width="500">
 
-### Demo：基本四則運算 + 連續運算（左到右）
-<a href="assets/demo_basic.mp4">
-  <img src="assets/demo_basic_thumb.png" width="300">
-</a>
-
-### Demo：轉換 2 / 8 / 16 進制
-<a href="assets/demo_base.mp4">
-  <img src="assets/demo_base_thumb.png" width="300">
-</a>
-
-
 ### 完整 Demo 影片（YouTube）
 <a href="https://youtube.com/shorts/_WM83jGysf0">
   <img src="assets/youtube_thumb.png" width="300">
