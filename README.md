@@ -1,6 +1,6 @@
 # 8051-Calculator (4x4 Keypad + 8-Digit 7-Segment)
 
-用 8051 + 4x4 Keypad + 8 位七段顯示器實作的計算機專案。  
+用 8051 (AT89S52) + 4x4 Keypad + 8 位七段顯示器實作的計算機專案。  
 使用 **SDCC** + **Makefile** 編譯，進入 `src/` 後直接 `make` 就能產生 `.hex` 燒錄檔。
 
 ---
